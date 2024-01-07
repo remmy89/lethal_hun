@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = Lethal company magyarítás
+ProductVersion = 2.0
+URL = https://download1322.mediafire.com/pjstuuqq5nmgRxB2rr1D-acK_f_50cq4crqcGf0fsBAU4DRmlGaewzCJkDIingXhk_Kiyf5C6YG0W7zyAhtec0krfMpHKdtbDs8TTASZgV2MJpk5Fvd1yly_-4ukiunvLV37ZcyD69iFBfn1IlZ-ToUewIsxq6RYWrM3TK5kRj_p/yjz5lbxiivpeldm/Lethal+company+magyar%C3%ADt%C3%A1s2.0.msi
+Size = 60221440
+SHA256 = 643F7E7149BA863C365C59813DF7E6EBA53D606781B0DA42F9C32AC9EF3EB30F
+MD5 = aa4ffa573f35475a734dc48e8acc14af
+ServerFileName = Lethal company magyarítás2.0.msi
+Flags = Critical
+RegistryKey = HKUD\Software\HDAnii\Lethal company magyarítás\Version
+Version = 2.0
+Feature = test
